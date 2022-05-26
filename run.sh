@@ -16,7 +16,7 @@ session="session-$(date +%Y-%m-%d_%H-%M-%S)"
 
 mkdir -p $workspace_root
 
-# curl 'https://old.reddit.com/r/AmItheAsshole/top.json?t=week' | jq -r '.data.children[] | .data | .url' | grep -v update | grep -Pv "^$" | head -n100 | shuf -n2 > $input_queue
+curl 'https://old.reddit.com/r/AmItheAsshole/top.json?t=week' | jq -r '.data.children[] | .data | .url' | grep -v update | grep -Pv "^$" | head -n100 | shuf -n2 > $input_queue
 cat $input_queue
 video_urls=$(cat $input_queue)
 
@@ -24,7 +24,7 @@ for video_url in $video_urls
 do
 (
     cd generate-assets/
-    # python3 run.py $video_url
+    python3 run.py $video_url
 )
 done
 
@@ -36,7 +36,7 @@ for name in $(ls $workspace_root); do
     export REMOTION_PROJECT_ID=$name
     (
         cd video-generator/
-        # npx remotion render src/index.tsx Main $video
+        npx remotion render src/index.tsx Main $video
         echo $video
         gsutil cp $video $bucket_root/videos/$session/
     )

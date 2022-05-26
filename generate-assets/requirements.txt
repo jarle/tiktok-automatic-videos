@@ -1,0 +1,6 @@
+mutagen
+google-cloud-texttospeech
+autocorrect
+playsound
+jamspell
+nltk

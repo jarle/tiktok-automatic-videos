@@ -1,0 +1,5 @@
+.gradient-background {
+  background: linear-gradient(300deg, rgb(102, 163, 184), rgb(236, 192, 255), rgb(157, 157, 255));
+  background-size: 180% 180%;
+  filter: blur('4px')
+}

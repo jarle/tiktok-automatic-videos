@@ -1,0 +1,598 @@
+{
+    "info": "all keywords should be in lowercase (guG)",
+    "suggestions": [
+        {
+            "keywords": [
+                "said no",
+                "sad",
+                "stopped",
+                "distant",
+                "noticed",
+                "notice",
+                "suspicious",
+                "allowed",
+                "i don't",
+                "am i.*wrong"
+            ],
+            "emoji": "leftwards-hand"
+        },
+        {
+            "keywords": [
+                "months along",
+                "pregnant",
+                "preggo",
+                "pregnancy",
+                "expecting.+child",
+                "with.+child"
+            ],
+            "emoji": "pregnant-woman"
+        },
+        {
+            "keywords": [
+                "birthday"
+            ],
+            "emoji": "birthday-cake"
+        },
+        {
+            "keywords": [
+                "nap"
+            ],
+            "emoji": "person-in-bed"
+        },
+        {
+            "keywords": [
+                "movie"
+            ],
+            "emoji": "television"
+        },
+        {
+            "keywords": [
+                "press like"
+            ],
+            "emoji": "raising-hands"
+        },
+        {
+            "keywords": [
+                "because of your?",
+                "cause of your?",
+                "your fault",
+                "your responsibility"
+            ],
+            "emoji": "index-pointing-at-the-viewer"
+        },
+        {
+            "keywords": [
+                "room"
+            ],
+            "emoji": "door"
+        },
+        {
+            "keywords": [
+                "cops",
+                "police"
+            ],
+            "emoji": "man-police-officer"
+        },
+        {
+            "keywords": [
+                "day"
+            ],
+            "emoji": "sun-behind-small-cloud"
+        },
+        {
+            "keywords": [
+                "night"
+            ],
+            "emoji": "waning-crescent-moon"
+        },
+        {
+            "keywords": [
+                "morning",
+                "early"
+            ],
+            "emoji": "sunrise"
+        },
+        {
+            "keywords": [
+                "late",
+                "evening"
+            ],
+            "emoji": "sunset"
+        },
+        {
+            "keywords": [
+                "rule",
+                "text",
+                "document",
+                "divorced?"
+            ],
+            "emoji": "page-facing-up"
+        },
+        {
+            "keywords": [
+                "fair",
+                "unfair",
+                "justice"
+            ],
+            "emoji": "balance-scale"
+        },
+        {
+            "keywords": [
+                "travel"
+            ],
+            "emoji": "small-airplane"
+        },
+        {
+            "keywords": [
+                "celebrate",
+                "celebration",
+                "party"
+            ],
+            "emoji": "clinking-glasses"
+        },
+        {
+            "keywords": [
+                "pay",
+                "paid",
+                "money",
+                "cash"
+            ],
+            "emoji": "dollar-banknote"
+        },
+        {
+            "keywords": [
+                "card"
+            ],
+            "emoji": "credit-card"
+        },
+        {
+            "keywords": [
+                "months? old"
+            ],
+            "emoji": "baby"
+        },
+        {
+            "keywords": [
+                "grandsons?"
+            ],
+            "emoji": "boy"
+        },
+        {
+            "keywords": [
+                "granddaughters?"
+            ],
+            "emoji": "girl"
+        },
+        {
+            "keywords": [
+                "maybe i'm just"
+            ],
+            "emoji": "person-shrugging"
+        },
+        {
+            "keywords": [
+                "sorry",
+                "sceptical",
+                "cruel"
+            ],
+            "emoji": "face-with-diagonal-mouth"
+        },
+        {
+            "keywords": [
+                "kittens?"
+            ],
+            "emoji": "cat-face"
+        },
+        {
+            "keywords": [
+                "mad",
+                "snapped",
+                "snap"
+            ],
+            "emoji": "face-with-steam-from-nose"
+        },
+        {
+            "keywords": [
+                "studying",
+                "university"
+            ],
+            "emoji": "graduation-cap"
+        },
+        {
+            "keywords": [
+                "(.*)have a (.*)sister",
+                "(.*)have a (.*)brother"
+            ],
+            "emoji": "busts-in-silhouette"
+        },
+        {
+            "keywords": [
+                "said yes"
+            ],
+            "emoji": "raising-hands"
+        },
+        {
+            "keywords": [
+                "broke up",
+                "heartbroken",
+                "broke my heart"
+            ],
+            "emoji": "broken-heart"
+        },
+        {
+            "keywords": [
+                "lgbt",
+                "gay",
+                "bisexual"
+            ],
+            "emoji": "rainbow-flag"
+        },
+        {
+            "keywords": [
+                "i found out",
+                "admitted"
+            ],
+            "emoji": "face-with-open-eyes-and-hand-over-mouth"
+        },
+        {
+            "keywords": [
+                "food",
+                "dinner",
+                "lunch"
+            ],
+            "emoji": "pot-of-food"
+        },
+        {
+            "keywords": [
+                "dogs"
+            ],
+            "emoji": "dog"
+        },
+        {
+            "keywords": [
+                "hours?",
+                "minutes",
+                "waited",
+                "waiting"
+            ],
+            "emoji": "five-oclock"
+        },
+        {
+            "keywords": [
+                "alarm clock"
+            ],
+            "emoji": "alarm-clock"
+        },
+        {
+            "keywords": [
+                "shock",
+                "shocked",
+                "stunned",
+                "nervous",
+                "confused?",
+                "i don't.+understand"
+            ],
+            "emoji": "neutral-face"
+        },
+        {
+            "keywords": [
+                "refused?",
+                "said no",
+                "told.+no",
+                "declined",
+                "weren't",
+                "stop"
+            ],
+            "emoji": "person-gesturing-no"
+        },
+        {
+            "keywords": [
+                "awkward",
+                "embarrassing",
+                "shy"
+            ],
+            "emoji": "face-with-peeking-eye"
+        },
+        {
+            "keywords": [
+                "asked",
+                "question"
+            ],
+            "emoji": "question-mark"
+        },
+        {
+            "keywords": [
+                "college",
+                "education",
+                "graduated"
+            ],
+            "emoji": "school"
+        },
+        {
+            "keywords": [
+                "curse",
+                "cursing"
+            ],
+            "emoji": "face-with-symbols-on-mouth"
+        },
+        {
+            "keywords": [
+                "yell(?:ed)",
+                "scream(?:ed)"
+            ],
+            "emoji": "speaking-head"
+        },
+        {
+            "keywords": [
+                "call(?:ed)",
+                "sent.*a text",
+                "texted",
+                "messaged"
+            ],
+            "emoji": "mobile-phone"
+        },
+        {
+            "keywords": [
+                "me sad"
+            ],
+            "emoji": "person-pouting"
+        },
+        {
+            "keywords": [
+                "dr[io]ve",
+                "car"
+            ],
+            "emoji": "sport-utility-vehicle"
+        },
+        {
+            "keywords": [
+                "passed away"
+            ],
+            "emoji": "sport-utility-vehicle"
+        },
+        {
+            "keywords": [
+                "walks?"
+            ],
+            "emoji": "person-walking"
+        },
+        {
+            "keywords": [
+                "run",
+                "running",
+                "jog",
+                "sprint"
+            ],
+            "emoji": "running-shoe"
+        },
+        {
+            "keywords": [
+                "work",
+                "jobs?"
+            ],
+            "emoji": "briefcase"
+        },
+        {
+            "keywords": [
+                "rolled eyes",
+                "roll eyes",
+                "ridiculous"
+            ],
+            "emoji": "face-with-rolling-eyes"
+        },
+        {
+            "keywords": [
+                "money",
+                "cash",
+                "rich"
+            ],
+            "emoji": "dollar-banknote"
+        },
+        {
+            "keywords": [
+                "have.+kids",
+                "house",
+                "housing",
+                "home",
+                "porch"
+            ],
+            "emoji": "house-with-garden"
+        },
+        {
+            "keywords": [
+                "cry",
+                "cried",
+                "sob",
+                "devastated"
+            ],
+            "emoji": "loudly-crying-face"
+        },
+        {
+            "keywords": [
+                "marry"
+            ],
+            "emoji": "church"
+        },
+        {
+            "keywords": [
+                "love"
+            ],
+            "emoji": "red-heart"
+        },
+        {
+            "keywords": [
+                "baby"
+            ],
+            "emoji": "baby-bottle"
+        },
+        {
+            "keywords": [
+                "phone"
+            ],
+            "emoji": "mobile-phone"
+        },
+        {
+            "keywords": [
+                "lock"
+            ],
+            "emoji": "locked"
+        },
+        {
+            "keywords": [
+                "silent",
+                "quiet"
+            ],
+            "emoji": "zipper-mouth-face"
+        },
+        {
+            "keywords": [
+                "police",
+                "officer"
+            ],
+            "emoji": "man-police-officer"
+        },
+        {
+            "keywords": [
+                "panic",
+                "fear"
+            ],
+            "emoji": "face-screaming-in-fear"
+        },
+        {
+            "keywords": [
+                "angry",
+                "argument",
+                "hope.+happy",
+                "fight"
+            ],
+            "emoji": "anger-symbol"
+        },
+        {
+            "keywords": [
+                "sleep",
+                "asleep"
+            ],
+            "emoji": "person-in-bed"
+        },
+        {
+            "keywords": [
+                "wife"
+            ],
+            "emoji": "woman"
+        },
+        {
+            "keywords": [
+                "husband"
+            ],
+            "emoji": "man"
+        },
+        {
+            "keywords": [
+                "flirt"
+            ],
+            "emoji": "biting-lip"
+        },
+        {
+            "keywords": [
+                "bride"
+            ],
+            "emoji": "woman-with-veil"
+        },
+        {
+            "keywords": [
+                "engaged",
+                "engagement",
+                "proposal",
+                "propose"
+            ],
+            "emoji": "ring"
+        },
+        {
+            "keywords": [
+                "child",
+                "kid"
+            ],
+            "emoji": "child"
+        },
+        {
+            "keywords": [
+                "woman"
+            ],
+            "emoji": "woman"
+        },
+        {
+            "keywords": [
+                "man"
+            ],
+            "emoji": "man"
+        },
+        {
+            "keywords": [
+                "old man",
+                "older man"
+            ],
+            "emoji": "old-man"
+        },
+        {
+            "keywords": [
+                "old woman",
+                "older woman"
+            ],
+            "emoji": "old-woman"
+        },
+        {
+            "keywords": [
+                "years?",
+                "months?",
+                "days?",
+                "forever",
+                "weeks?"
+            ],
+            "emoji": "spiral-calendar"
+        },
+        {
+            "keywords": [
+                "town",
+                "suburbs?"
+            ],
+            "emoji": "houses"
+        },
+        {
+            "keywords": [
+                "by train"
+            ],
+            "emoji": "train"
+        },
+        {
+            "keywords": [
+                "garbage",
+                "trash"
+            ],
+            "emoji": "litter-in-bin-sign"
+        },
+        {
+            "keywords": [
+                "£"
+            ],
+            "emoji": "pound-banknote"
+        },
+        {
+            "keywords": [
+                "\\$"
+            ],
+            "emoji": "dollar-banknote"
+        },
+        {
+            "keywords": [
+                "€"
+            ],
+            "emoji": "euro-banknote"
+        },
+        {
+            "keywords": [
+                "surgery"
+            ],
+            "emoji": "man-health-worker"
+        }
+    ]
+}

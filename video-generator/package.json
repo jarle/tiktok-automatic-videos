@@ -1,0 +1,35 @@
+{
+  "name": "my-video",
+  "version": "1.0.0",
+  "description": "My Remotion video",
+  "scripts": {
+    "start": "remotion preview src/index.tsx",
+    "build": "remotion render src/index.tsx Main out/video.mp4",
+    "upgrade": "remotion upgrade",
+    "test": "eslint src --ext ts,tsx,js,jsx && tsc"
+  },
+  "repository": {},
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@remotion/bundler": "^3.0.0",
+    "@remotion/cli": "^3.0.0",
+    "@remotion/eslint-config": "^3.0.0",
+    "@remotion/renderer": "^3.0.0",
+    "eslint": "^8.14.0",
+    "framer-motion": "^6.3.3",
+    "i": "^0.3.7",
+    "npm": "^8.8.0",
+    "prettier": "^2.2.1",
+    "react": "^18.0.0",
+    "react-apple-emojis": "^2.2.1",
+    "react-dom": "^18.0.0",
+    "remotion": "^3.0.0",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.6",
+    "@types/web": "^0.0.61"
+  }
+}

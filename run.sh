@@ -46,3 +46,5 @@ done
 echo "Session done: $session"
 
 echo > $input_queue
+
+curl metadata.google.internal -i && poweroff

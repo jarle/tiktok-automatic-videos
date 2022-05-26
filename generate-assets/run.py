@@ -6,9 +6,7 @@ import urllib.request
 from html import unescape
 from pathlib import Path
 
-from emoji import emojize
 from mutagen.mp3 import MP3
-from playsound import playsound
 
 from clean_up_text import clean_up_text, find_gender, split_and_correct_text
 from emoji_suggester import neutral_emoji, suggest_emoji
@@ -89,7 +87,6 @@ def main(post_url):
                 gender=gender
             )
 
-        #playsound(audio_out, block=False)
         if len(phrase.split()) < 35:
             emoji = suggest_emoji(phrase)
             if not emoji and i > 3 and i < len(phrases)-2:

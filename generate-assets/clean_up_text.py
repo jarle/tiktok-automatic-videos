@@ -1,4 +1,3 @@
-import itertools
 import re
 
 from nltk.tokenize import sent_tokenize

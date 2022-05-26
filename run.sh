@@ -16,7 +16,7 @@ session="session-$(date +%Y-%m-%d_%H-%M-%S)"
 
 mkdir -p $workspace_root
 
-curl 'https://old.reddit.com/r/AmItheAsshole/top.json?t=week' | jq -r '.data.children[] | .data | .url' | grep -v update | grep -Pv "^$" | head -n100 | shuf -n2 > $input_queue
+curl -A 'random' -v 'https://old.reddit.com/r/AmItheAsshole/top.json?t=week' | jq -r '.data.children[] | .data | .url' | grep -v update | grep -Pv "^$" | head -n100 | shuf -n2 > $input_queue
 cat $input_queue
 video_urls=$(cat $input_queue)
 

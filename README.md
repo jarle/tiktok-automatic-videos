@@ -3,7 +3,7 @@
 
 This was an experiment in generating fully automated TikTok videos based on stories posted to reddit.
 
-_Hundreds_ of videos were generated and posted to the account [ultimate_reddit_stories](https://www.tiktok.com/@ultimate_reddit_stories), usually generating lots of engagement.
+_Over 100 videos_ were generated and posted to the account [ultimate_reddit_stories](https://www.tiktok.com/@ultimate_reddit_stories), usually generating lots of engagement.
 Unfortunately TikTok is geo-bound, meaning that the videos I uploaded were not shown to a global audience (mainly Norway in my case).
 
 

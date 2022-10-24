@@ -1,11 +1,11 @@
 # Automatically generate narrated videos from reddit posts 📽️
 
-
 This was an experiment in generating fully automated TikTok videos based on stories posted to reddit.
 
 _Over 100 videos_ were generated and posted to the account [ultimate_reddit_stories](https://www.tiktok.com/@ultimate_reddit_stories), usually generating lots of engagement.
 Unfortunately TikTok is geo-bound, meaning that the videos I uploaded were not shown to a global audience (mainly Norway in my case).
 
+![image](https://user-images.githubusercontent.com/5922571/197631225-f8bb5217-2cd4-4edc-8746-4ebfb85bed7c.png)
 
 ## Automated steps
 
